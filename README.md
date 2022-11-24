@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Bliggyy
 - 👀 I’m interested in games and anime
 - 🌱 I’m currently learning how to survive
+- :bulb: I have some knowledge in react, laravel, and .net core
 - 📫 How to reach me 
   - Gmail: blighstian23@gmail.com
 
