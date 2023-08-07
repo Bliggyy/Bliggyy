@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to survive
 - :bulb: I have some knowledge in react, laravel, and .net core
 - 📫 How to reach me 
-  - Gmail: blighstian23@gmail.com
+  - Gmail: bligh.ignacio23@gmail.com
 
 <!---
 Bliggyy/Bliggyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
